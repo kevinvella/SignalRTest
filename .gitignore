@@ -1,0 +1,16 @@
+.vs/SignalRSolution/xs/UserPrefs.xml
+.vs/SignalRSolution/xs/sqlite3/db.lock
+.vs/SignalRSolution/xs/sqlite3/storage.ide
+.vs/SignalRSolution/xs/sqlite3/storage.ide-shm
+.vs/SignalRSolution/xs/sqlite3/storage.ide-wal
+SignalRConsole/obj
+SignalRMobile.Android/bin
+SignalRMobile.Android/obj
+SignalRMobile.iOS/bin
+SignalRMobile.iOS/obj
+SignalRMobile/obj
+SignalRServer/obj
+SignalRServer/bin
+SignalRServer/Properties/PublishProfiles/betbanter-signalr - Web Deploy.pubxml
+SignalRServer/Properties/PublishProfiles/betbanter-signalr - Web Deploy.pubxml.user
+SignalRConsole/bin
